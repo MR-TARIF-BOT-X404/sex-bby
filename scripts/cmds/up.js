@@ -74,7 +74,7 @@ module.exports = {
     ctx.font = "22px Roboto";
     ctx.shadowColor = "#00d5ff";
     ctx.shadowBlur = 18;
-    ctx.fillText("BOT ER MARE CHUDI", 50, 40);
+    ctx.fillText("APHELION's BOT", 50, 40);
 
     const labels = [
       "Bot Uptime", "System Uptime", "CPU", "RAM Usage",
