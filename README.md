@@ -7,7 +7,7 @@
 ![Platform](https://img.shields.io/badge/Platform-Render-blue)
 ![Library](https://img.shields.io/badge/Library-FCA--NeoKex-orange)
 
-> "An Atomic chatbot."
+> "An Automatic chatbot."
 >
 > A high-performance Facebook Messenger bot powered by **NeoKex (Multi-FCA Fork)**. Built for stability on Render with a custom **Shadow Garden** aesthetic.
 
